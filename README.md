@@ -1,10 +1,12 @@
 
--->
 # Hey, I'm Edwin 👋
 
-🎓 IT • 💡 Visual learner • ✍️ Learning in public
+• 🎓 IT 
+• 💡 Visual learner 
+• ✍️ Learning in public
 
-Welcome! This is where I share my learning journey and what i build. 
+##Welcome!
+This is where I share my learning journey and what i build. 
 Currently pursuing path to networking engineer
 
 programs im in:
