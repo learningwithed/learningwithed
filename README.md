@@ -42,5 +42,5 @@ Check the folders and repos for:
 - 📩 Always open to collabs, walkthroughs, or just trading notes / cats 🐱
 
 
-> _"If you can't explain something simply, you don't understand it well enough."_  
+> _"If you can't explain something simply, you don't understand it well enough."_  Mike Tyson
 > — <sub>probably not Mike Tyson, but let's roll with it 😎</sub>
