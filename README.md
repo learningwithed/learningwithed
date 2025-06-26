@@ -3,6 +3,7 @@
 🧠 Visual Thinker | 🛠 Network & Systems Enthusiast | 📎 Resource Curator  
 
 
+
 ## 💡 What I Do
 
 I build small tools, break down networking concepts, and share **clean, visual explanations** for anyone trying to "see how it all works."
@@ -14,11 +15,11 @@ If you're a visual learner like me, you’ll feel at home here.
 ## 🔍 What You’ll Find Here
 
 - 🌐 Networking concepts explained (DNS, TCP/IP, NAT, BGP…)
-  <  
-- 🧰 Linux fundamentals, scripts, and CLI tools  
+  <--
+- 🧰 Linux fundamentals, scripts, and CLI tools  -->
 - ☁️ Cloud basics (AWS, DevOps foundations)  
 - 📂 Neatly organized repos, visual notes, and walkthroughs  
-- 📘 Personal deep dives & guides that connect theory to the real world>
+- 📘 Personal deep dives & guides that connect theory to the real world 
 
 ---
 
