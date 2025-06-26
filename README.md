@@ -1,10 +1,11 @@
-# 👋 Hi, I'm Edwin
+#  Hi, I'm Edwin 👋
 
+<!-- - 🧰 Linux fundamentals, shell tools, and CLI workflows -->
 🧠 Visual Thinker & Explainer  
 🛠 Network & Systems Enthusiast  
 📎 Resource Curator  
+<!-- - 🧰 Linux fundamentals, shell tools, and CLI workflows -->
 
----
 
 ## 💡 What I Do
 
