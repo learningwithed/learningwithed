@@ -1,41 +1,43 @@
-# 👋 Hey there, I’m Edwin Kithinji
+# 👋 Hi, I'm Edwin
 
-🎓 IT Student  
-💡 Visual Learner  
-✍️ Learning in Public  
-🔧 Aspiring Network Engineer  
+🧠 Visual Thinker | 🛠 Network & Systems Enthusiast | 📎 Resource Curator  
 
----
 
-## 🚀 Welcome!
+## 💡 What I Do
 
-This is my personal space to **document my learning journey** and showcase what I build.
+I build small tools, break down networking concepts, and share **clean, visual explanations** for anyone trying to "see how it all works."
 
-I'm currently on a mission to grow into a skilled **Network Engineer**, with hands-on experience across:
-
-- 🌐 Networking Fundamentals & Protocols  
-- ☁️ Cloud Infrastructure (learning via ALX AWS Cloud Computing program)  
-- 🧰 Linux, Shell, and Systems Tools  
-- 💡 Open-source exploration & personal projects
-
-I believe in **building publicly**, **learning by doing**, and **growing one commit at a time.**
+If you're a visual learner like me, you’ll feel at home here.
 
 ---
 
-## 🔨 What I’m Working On
+## 🔍 What You’ll Find Here
 
-- 🖥️ **ALX AWS Cloud Computing** — deepening cloud & devops fundamentals  
-- 📚 Core Computer Networking, TCP/IP, DNS, Routing  
-- ⚙️ Mini-systems: DNS resolver, HTTP client, Bash tools  
-- 📘 Mastering C++ and systems-level thinking
-
----
-
-## 🌱 Let’s Connect
-
-- 🌐 [Website]()  
-- 💼 [LinkedIn](https://www.linkedin.com/in/edwin-kithinji-02b469368/)  
-- 📝 Currently building this GitHub out — follow along as I build, break, and learn!
+- 🌐 Networking concepts explained (DNS, TCP/IP, NAT, BGP…)
+  <  
+- 🧰 Linux fundamentals, scripts, and CLI tools  
+- ☁️ Cloud basics (AWS, DevOps foundations)  
+- 📂 Neatly organized repos, visual notes, and walkthroughs  
+- 📘 Personal deep dives & guides that connect theory to the real world>
 
 ---
 
+## 🛠 Projects & Writeups
+
+Check the folders and repos for:
+- ✏️ Simple breakdowns of tricky protocols  
+- 🧪 Small networking experiments (packet flow, resolvers, etc.)  
+- 📜 Logs of how I approached and solved challenges  
+- 🔁 Reusable resources for tech learners, especially visual thinkers
+
+---
+
+## 🤝 Let’s Connect
+
+- 🌐 [Portfolio]()  
+- 💼 [LinkedIn]()  
+- 📩 Open to collabs, writing guides, or just sharing notes
+
+---
+
+> _I believe tech should be **clear**, **shareable**, and **a little bit fun**. That’s what I build for._
