@@ -1,8 +1,8 @@
 #  Hi, I'm Edwin 👋
 
 <!-- - 🧰 Linux fundamentals, shell tools, and CLI workflows -->
-🧠 Visual Thinker & Explainer  
 🛠 Network & Systems Enthusiast  
+🧠 Visual Thinker 
 📎 Resource Curator  
 <!-- - 🧰 Linux fundamentals, shell tools, and CLI workflows -->
 
