@@ -4,7 +4,6 @@
 💡 Visual Learner  
 ✍️ Learning in Public  
 🔧 Aspiring Network Engineer  
-🚀 Currently diving into Cloud & Systems
 
 ---
 
