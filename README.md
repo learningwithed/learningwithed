@@ -1,16 +1,16 @@
-## Hi there 👋
 
-<!--
-**learningwithed/learningwithed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+# Hey, I'm Edwin 👋
+
+🎓 IT • 💡 Visual learner • ✍️ Learning in public
+
+Welcome! This is where I share my learning journey and what i build. 
+Currently pursuing path to networking engineer
+
+programs im in:
+- 🖥️ ALX AWS Cloud computing
+
+Follow along as I build, break, and grow.
+
+linkedin:
+website:
